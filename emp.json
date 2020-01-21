@@ -1,0 +1,37 @@
+[
+    {
+        "name":"Ashwini",
+        "degignation":"Jr.Software Engineer",
+        "project":"IOS",
+        "yearOfExprience":"1year",
+        "image":"https://yeshwanth-n-itt.github.io/imageGallery/employeeImages/goku.jpg"
+    },
+    {
+        "name":"Akshata",
+        "degignation":"Jr.Software Engineer",
+        "project":"angularjs",
+        "yearOfExprience":"1years",
+        "image":"https://yeshwanth-n-itt.github.io/imageGallery/employeeImages/248264-kEFqh-gH6Vks78xR.png"
+    },
+    {
+        "name":"Shwetha",
+        "degignation":"Jr.Software Engineer",
+        "project":"python",
+        "yearOfExprience":"2years",
+        "image":"https://yeshwanth-n-itt.github.io/imageGallery/employeeImages/goten.png"
+    },
+    {
+        "name":"Pratima",
+        "degignation":"Jr.Software Engineer",
+        "project":"reactjs",
+        "yearOfExprience":"2years",
+        "image":"https://yeshwanth-n-itt.github.io/imageGallery/employeeImages/vegeta.jfif"
+    },
+    {
+        "name":"Yeshwanth",
+        "degignation":"Jr.Software Engineer",
+        "project":"metro",
+        "yearOfExprience":"20years",
+        "image":"https://yeshwanth-n-itt.github.io/imageGallery/employeeImages/vegeta.jfif"
+    }
+]
